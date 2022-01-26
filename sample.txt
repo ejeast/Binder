@@ -1,2 +1,2 @@
-Ooey Kurumba.
+Hello GitHub!
 Hello World!
